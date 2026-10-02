@@ -1,0 +1,10 @@
+{
+  "name": "lognorm",
+  "version": "1.0.0",
+  "description": "LogNorm growth engine for agents: SEO and GEO audits, AI-visibility tracking, keyword and competitor research, content briefs and drafts, and a ranked weekly plan your agent works next to your team.",
+  "author": { "name": "LogNorm", "url": "https://lognorm.com" },
+  "homepage": "https://lognorm.com",
+  "repository": "https://github.com/lognorm/lognorm-mcp",
+  "license": "MIT",
+  "keywords": ["seo", "geo", "ai-visibility", "growth", "marketing", "mcp"]
+}

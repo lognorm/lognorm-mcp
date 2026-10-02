@@ -1,0 +1,10 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-09-29/server.schema.json",
+  "name": "io.github.lognorm/lognorm",
+  "title": "LogNorm",
+  "description": "Growth backlog for agents: SEO/GEO audits, AI visibility, keywords, competitors and content.",
+  "version": "1.0.0",
+  "websiteUrl": "https://lognorm.com",
+  "repository": { "url": "https://github.com/lognorm/lognorm-mcp", "source": "github" },
+  "remotes": [ { "type": "streamable-http", "url": "https://lognorm.com/api/mcp" } ]
+}

@@ -1,0 +1,5 @@
+{
+  "name": "lognorm",
+  "owner": { "name": "LogNorm", "url": "https://lognorm.com" },
+  "plugins": [ { "name": "lognorm", "source": "./", "description": "LogNorm MCP server and growth skill for Claude Code." } ]
+}
